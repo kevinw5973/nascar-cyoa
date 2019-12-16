@@ -3,4 +3,5 @@ Everyone laughs at you and your reputation is ruined. You go home as a failure a
 
 ![reputation-ruin.png](../pictures/reputation-ruin.png)  
 
-[**Restart**](../arrive-at-race.md)
+[**Restart**](../arrive-at-race.md)  
+[**Go back**](rival-grunt.md)

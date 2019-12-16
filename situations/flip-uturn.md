@@ -3,4 +3,5 @@ You turn back into the hell that you have created realizing what you have done. 
 
 ![run-over.png](../pictures/run-over.png)  
 
-[**Restart**](../arrive-at-race.md)
+[**Restart**](../arrive-at-race.md)  
+[**Go back**](rival-explode.md)

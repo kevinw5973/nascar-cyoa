@@ -3,4 +3,5 @@ You get tazed and put in handcuffs by security. The police are called and you ar
 
 ![taze-and-handcuff.png](../pictures/taze-and-handcuff.png)  
 
-[**Restart**](../arrive-at-race.md)
+[**Restart**](../arrive-at-race.md)  
+[**Go back**](sercurity.md)

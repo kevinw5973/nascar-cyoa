@@ -3,4 +3,5 @@ You are in second place with one lap left, you begin to gain on the first. As yo
 
 ![hate-forever.png](../pictures/hate-forever.png)  
 
-[**Restart**](../arrive-at-race.md)
+[**Restart**](../arrive-at-race.md)  
+[**Go back**](rival-explode.md)
