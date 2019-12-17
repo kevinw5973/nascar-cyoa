@@ -1,6 +1,6 @@
 # Nascar
 ![Nascar](http://www.iowaspeedway.com/wp-content/uploads/sites/5/2017/09/NASCAR_Gray-01.png)
-The purpose of creating this repo is to practice linking files and images.  
+The purpose of this project was to practice/ learn linking files and images in our own creative way. We also practiced collaboration through partner work.
 
 
 Click [here](arrive-at-race.md) to begin.  
