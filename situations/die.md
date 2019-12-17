@@ -3,3 +3,6 @@ You begin to weave in and out of the starting area. You begin to catch speed as 
 
 ![die.png](../pictures/die.png)  
 
+[**Restart**](../arrive-at-race.md)  
+[**Go back**](get-ready.md)
+
